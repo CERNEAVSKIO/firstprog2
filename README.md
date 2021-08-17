@@ -1,2 +1,2 @@
-# study_pascal
+# firstprog
 http://stolyarov.info/books/programming_intro/e2
